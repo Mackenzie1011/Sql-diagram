@@ -1,2 +1,2 @@
 # Sql-diagram
-![altex][screenshot(10).png]
+![altext][Screenshot(10).png]
