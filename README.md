@@ -1,2 +1,2 @@
 # Sql-diagram
-![alt text](Sqldiagram.png)
+![alt text](Sql.png)
