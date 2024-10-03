@@ -80,5 +80,7 @@ INSERT INTO orders (order_id, customer_id, order_date, order_status) VALUES (8, 
 INSERT INTO orders (order_id, customer_id, order_date, order_status) VALUES (9, 9, TO_DATE('2024-09-09', 'YYYY-MM-DD'), 'Delivered');
 INSERT INTO orders (order_id, customer_id, order_date, order_status) VALUES (10, 10, TO_DATE('2024-09-10', 'YYYY-MM-DD'), 'Shipped');
 ```
+![alt text](sql.png)
+
 ## Conclusion:
 The establishment of this e-commerce database provides a solid foundation for managing customer relationships, product inventories, and order processing. By organizing data into distinct tables with well-defined relationships, the database enables efficient data management and retrieval.
