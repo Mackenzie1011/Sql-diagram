@@ -1,5 +1,5 @@
 # Sql-diagram
-![alt text](Sql.png)
+
 
 # CREATING TABLES
 ```    sql
